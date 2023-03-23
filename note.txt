@@ -1,0 +1,8 @@
+- git init
+-git config username"your username"
+-git config user email "your email"
+-git add.
+-git commit - "my first push/ your project name".
+-git branch - M main or master
+-git remote add origin https://github.com/your_username/repo_name.git
+-git push origin master/main
